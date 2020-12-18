@@ -5,6 +5,7 @@ Under Review.
 
 For preprint on arXiv https://arxiv.org/abs/2012.08828.
 
+```markdown
 @misc{wang2020information,
       title={Information Diffusion Prediction with Latent Factor Disentanglement}, 
       author={Haoran Wang and Cheng Yang},
@@ -13,3 +14,4 @@ For preprint on arXiv https://arxiv.org/abs/2012.08828.
       archivePrefix={arXiv},
       primaryClass={cs.SI}
 }
+```
